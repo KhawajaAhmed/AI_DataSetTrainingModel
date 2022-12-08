@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=UnitModel
+comment0.text=\r\n\ @author\ Steven\ Bogaerts\ (starter\ code)\r\n
+comment1.params=
+comment1.target=UnitModel()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=X
+comment3.target=Matrix\ forward(Matrix)
+comment3.text=\r\n\ @param\ X\ shape\ (nx,\ m)\r\n\ @return\ output\ of\ the\ model,\ shape\ (1,\ m)\r\n
+comment4.params=X\ Y
+comment4.target=void\ fit(Matrix,\ Matrix)
+comment4.text=\r\n\ @param\ X\ shape\ (nx,\ m)\r\n\ @param\ Y\ shape\ (1,\ m)\r\n
+comment5.params=X
+comment5.target=Matrix\ predict(Matrix)
+comment5.text=\r\n\ @param\ X\ shape\ (nx,\ m)\r\n\ @return\ predictions,\ shape\ (1,\ m)\r\n
+comment6.params=Yactual\ Ypred
+comment6.target=void\ compare(Matrix,\ Matrix)
+numComments=7
